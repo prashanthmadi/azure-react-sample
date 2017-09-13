@@ -1,3 +1,9 @@
+# Running React App in Azure App Service Linux with Continuous Deployment
+
+Blog : https://ourwayoflyf.com/running-react-app-in-app-service-linux/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
